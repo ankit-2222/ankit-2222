@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit-2222.ankit-2222&left_color=aqua"  />
+  <img src="https://profile-counter.glitch.me/ankit-2222/count.svg?"  />
 </div>
 
 ###
