@@ -12,12 +12,12 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning GraphQL and AWS<br>📄 Know about my experiences https://drive.google.com/file/d/1JzgSGgOeaaFuT-kQTy8GVYutogw4Ei5r/view?usp=sharing<br>⚡ Fun fact I think, I am Tech enthusiastic</p>
+<p align="left">🌱 I’m currently learning GraphQL and AWS<br>📄 Know about my experiences https://bit.ly/3C7nzTO<br>⚡ Fun fact I think, I am good cook.</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -37,10 +37,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
@@ -52,12 +48,16 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="ankitmahapatra8018@gmail.com" target="_blank">
+  <a href="mailto:ankitmahapatra8018@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ankit-mahapatra-ak15/" target="_blank">
@@ -71,6 +71,9 @@
   </a>
   <a href="https://dev.to/ankit_mahapatra_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+  <a href="https://leetcode.com/u/ankitmahapatra8018/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo"  />
   </a>
 </div>
 
