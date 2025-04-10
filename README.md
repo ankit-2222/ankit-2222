@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning GraphQL and AWS<br>📄 Know about my experiences https://bit.ly/3C7nzTO<br>⚡ Fun fact I think, I am good cook.</p>
+<p align="left">🌱 I’m currently learning GraphQL and AWS<br>📄 Know about my experiences https://bit.ly/ak15resume<br>⚡ Fun fact I think, I am good cook.</p>
 
 ###
 
