@@ -1,87 +1,82 @@
-<h1 align="center">Hi 👋! I'm Ankit.</h1>
+<h1 align="center">Hi 👋, I'm Ankit Mahapatra</h1>
 
-###
-
-<h4 align="center">A Passionate Full-Stack Developer.</h4>
+<h4 align="center">A Passionate and Versatile Full Stack Developer from India 🚀</h4>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
 ###
 
-<p align="left">🌱 I’m currently learning GraphQL and AWS<br>📄 Know about my experiences https://bit.ly/ak15resume<br>⚡ Fun fact I think, I am good cook.</p>
+<p align="center">
+🎓 B.Tech in Computer Science & Engineering from GIET University<br>
+💻 Skilled in Java, JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs & AWS<br>
+🌱 Currently exploring GraphQL and Cloud Computing (AWS)<br>
+📁 Check out my resume: <a href="https://drive.google.com/file/d/1pmU0xibThrMqr9bg1snDUZzfg_fPkBd1/view?usp=sharing" target="_blank">Click-me</a><br>
+🎯 Career Goal: Building scalable and robust web applications with intuitive user experience<br>
+🍳 Fun fact: I’m a pretty good cook too!
+</p>
 
 ###
+
+### 🚀 Projects Highlights
+
+- **Taskify** – Kanban-style Task Manager with team collaboration features (React, Tailwind, Node.js, MongoDB)
+- **Algorithm Visualizer** – A visual tool for BFS, DFS, and Dijkstra’s (React, JS)
+- **IDURAR CRM** – Contributed to open-source ERP/CRM system (MERN, Redux, Ant Design)
+- **Shortify** – A URL Shortener with analytics and JWT-based auth (Node.js, EJS, MongoDB)
+
+###
+
+### 🧰 Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,react,mongodb,mysql,graphql,html,css,bootstrap,tailwind,git,github,linux,aws,postman,ejs,figma,ps,ai" height="30" />
 </div>
 
 ###
+
+### 🏆 Certifications & Achievements
+
+- 🥇 **HackFrenzy Finalist** – Built an AI-driven platform for farmers at IIIT Sri City
+- 🧠 **Wipro TalentNext Certified** – Full Stack Java (J2EE)
+- 🤖 **Internshala** – Machine Learning Training
+- 💡 **HackerRank** – Certified in Basic, Intermediate, and Advanced SQL
+
+###
+
+### 📫 Connect With Me
 
 <div align="left">
   <a href="mailto:ankitmahapatra8018@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/ankit-mahapatra-ak15/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=invision&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://x.com/AMahapatra_15" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.hackerrank.com/profile/ankitmahapatra81" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://dev.to/ankit_mahapatra_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://leetcode.com/u/ankitmahapatra8018/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo"  />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
 ###
 
+### 📊 GitHub Stats
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-2222&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-2222&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-2222&show_icons=true&theme=nord&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-2222&layout=compact&theme=nord&langs_count=6" height="150" />
 </div>
 
 ###
@@ -93,7 +88,5 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ankit-2222/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ankit-2222/count.svg?" />
 </div>
-
-###
