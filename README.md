@@ -88,6 +88,6 @@
 ###
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit-2222" alt="Visitors" height="75"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit-2222" alt="Visitors"/>
 </p>
 
