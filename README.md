@@ -87,6 +87,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ankit-2222/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit-2222" alt="Visitors" />
+</p>
+
