@@ -33,7 +33,7 @@
 ### 🧰 Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,react,mongodb,mysql,graphql,html,css,bootstrap,tailwind,git,github,linux,aws,postman,ejs,figma,ps,ai" height="75" />
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,react,mongodb,mysql,graphql,html,css,bootstrap,tailwind,git,github,linux,aws,postman,figma,ps,ai" height="75" />
 </div>
 
 ###
